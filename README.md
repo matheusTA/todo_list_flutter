@@ -1,4 +1,19 @@
-# todo_list_flutter
+# To do List
+
+> The application for you to organize your tasks!
+
+<h3 align="center">
+<img alt="Flutter app" 
+    src="https://github.com/matheusTA/todo_list_flutter/blob/master/snapshots/screen1.PNG?raw=true" width="180px"/>
+  <img alt="Flutter App" 
+    src="https://github.com/matheusTA/todo_list_flutter/blob/master/snapshots/screen2.PNG?raw=true" width="180px"/>
+    	<img alt="Flutter app" 
+    src="https://github.com/matheusTA/todo_list_flutter/blob/master/snapshots/video.gif?raw=true" width="180px"/>
+</h3>
+
+## Flutter
+
+- [Flutter.dev](https://flutter.dev/)
 
 A new Flutter project.
 
