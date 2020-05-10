@@ -30,8 +30,8 @@
 ## 👩‍🏫 Getting Started
 
 - Cloning Project
-  - `git clone https://github.com/matheusTA/search_gif_flutter.git`
-  - `cd search_gif_flutter`
+  - `git clone https://github.com/matheusTA/todo_list_flutter.git`
+  - `cd todo_list_flutter`
 - Install packages
   - `flutter pub get`
 - [Run app](https://flutter.dev/docs/get-started/test-drive?tab=terminal)
