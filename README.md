@@ -1,9 +1,9 @@
 <h1 align="center">
-  <strong>📜 To-do List</strong>
+  <strong>To-do List</strong>
 </h1> 
 
 <p align="center">
-💻 Application for you to organize your tasks!
+📜 Application for you to organize your tasks!
 </p> 
 
 ## 🎨 Screens
